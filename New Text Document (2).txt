@@ -83,7 +83,7 @@ ll call(ll x , ll y , ll per , ll pos)
 int main()
 {
     //ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-    ///*
+    /*
     #ifndef ONLINE_JUDGE
     freopen("input.cpp", "r" , stdin);
     //freopen("output.txt" , "w" , stdout);
